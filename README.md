@@ -1,1 +1,1 @@
-# Sentiment-analysis-on-Food
+In this Project I have done sentiment analysis on food. In this a GUI is created which takes some reviews and predicts it to be positive or negative using Naive bayes classifier in Machine Learning. This is a very basic project which can be useful for beginners in Machine Learning.
